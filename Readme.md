@@ -22,11 +22,11 @@
 - I learned how to arrange components with flexbox, and I learned how to properly place background images and how to use background image properties such as background position, background size, and so on.
 
 ## Time taken
-- It took me around 3 hours to built this website from scratch
+- It took me around 2 hours to built this website from scratch
 
 ## Links
-- [live demo](#)
-- [source](#)
+- [live demo](https://crypto-landing-page-by-shriram.netlify.app/)
+- [source](https://github.com/RAM844/Crypto-Landing-page)
 
 
 ## Contact me
