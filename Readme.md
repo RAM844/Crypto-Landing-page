@@ -1,4 +1,4 @@
-# Law Home Page
+# Crypto Landing Page
 
 - This is a Crypto Landing  page, made using html and css 
 
